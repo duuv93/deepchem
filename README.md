@@ -1,4 +1,5 @@
-﻿# DeepChem
+docker pull deepchemio/deepchem:2.8.0
+docker run -it deepchemio/deepchem:2.8.0﻿# DeepChem
 
 [![Anaconda-Server Badge](https://anaconda.org/conda-forge/deepchem/badges/version.svg)](https://anaconda.org/conda-forge/deepchem)
 [![PyPI version](https://badge.fury.io/py/deepchem.svg)](https://pypi.org/project/deepchem/)
